@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_toStartOf="@+id/stop_btn"
-        android:text="Play" />
+        android:text="Play/Pause" />
 
     <Button
         android:id="@+id/stop_btn"
